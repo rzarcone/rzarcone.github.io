@@ -537,7 +537,8 @@ border-radius: .1em;
 .ai-google-scholar {
   text-decoration: none;
   border-bottom: none;
-  position: relative; }
+  position: relative; 
+  font-size: 2.25rem;}
   .icon:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
@@ -548,7 +549,8 @@ border-radius: .1em;
     line-height: 1;
     text-transform: none !important;
     font-family: 'Font Awesome 5 Free';
-    font-weight: 400; }
+    font-weight: 400;
+    font-size: 2.25rem}
   .icon > .label {
     display: none; }
   .icon:before {
