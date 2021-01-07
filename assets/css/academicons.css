@@ -538,7 +538,7 @@ border-radius: .1em;
   text-decoration: none;
   border-bottom: none;
   position: relative; 
-  font-size: 1.5rem;}
+  font-size: 0.5rem;}
   .icon:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
